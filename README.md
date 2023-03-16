@@ -1,36 +1,37 @@
+
 <p align="center">
   <img src="https://i.imgur.com/Ua7udoS.png" height="80%" width="80%" alt="Ubuntu VM" alt="Traffic Examination"/>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-<br> In this Lab, experiment with Network Security Groups, as well as observe various network traffic between Azure Virtual Machines using Wireshark.  
- </br>
+In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
+
+<!-- <h2>Video Demonstration</h2>
+
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
-* Microsoft Azure (Virtual Machines/Compute)
-* Remote Desktop
-* Various Command-Line Tools
-* Various Network Protocols (ICMP, SSH, DHCP, DNS, RDP)
-* Wireshark (Protocol Analyzer)
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Various Command-Line Tools
+- Various Network Protocols (ICMP, SSH, DHCP, DNS, RDP)
+- Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
-* Windows 10 (21H2)
-* Windows Server 2022
+- Windows 10 (21H2)
+- Ubuntu Server 20.04
+
 <h2>High-Level Steps</h2>
 
-* Inspect DNS A-Records on the server (hostname to IP address mappings)
-* Create some A-reconds on the server and observe them from the client
-* Delete Records from the server and inspect/clear the client DNS cache to gain understanding
-* Touch on 'Cname' records (mapping one name to another name)
-* Observe DNS Traffic
-* Observe RDP Traffic
-
-<h2>Actions and Observations</h2>
-</br>
-</br>
+- Create Resources
+- Observe ICMP Traffic
+- Observe SSH Traffic
+- Observe DHCP Traffic
+- Observe DNS Traffic
+- Observe RDP Traffic
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
