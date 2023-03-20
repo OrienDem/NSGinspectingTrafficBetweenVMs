@@ -184,7 +184,9 @@ Step 16 type linux commands to verify access to terminal
 <img src="https://i.imgur.com/kkAtmbT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
+<h3 align="center">
+ Observe DHCP Information
+</h3>
 
 
 <p>
@@ -198,6 +200,12 @@ Step 17 reasign dhcp and analyse the information in wireshark
 <p>
 <img src="https://i.imgur.com/jNp6biz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h3 align="center">
+ Observe DNS Traffic
+</h3>
+
+
 <p>
 Step 18 DNS analyse the dns traffic after using the nslookup command
 </p>
@@ -206,6 +214,12 @@ Step 18 DNS analyse the dns traffic after using the nslookup command
 <p>
 <img src="https://i.imgur.com/Poi2CMh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h3 align="center">
+  Observe RDP traffic
+</h3>
+
+
 <p>
 Step 19 Lastly, check RDP or TCP  port 3389 and observe the continuous stream of traffic due to the use of the remote desktop viewer
 </p>
