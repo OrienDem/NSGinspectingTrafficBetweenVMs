@@ -43,14 +43,34 @@ Step 1 create the resources for lab, the First VM using Windows Pro
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4R7MSCn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create Second VM using Linux
 </p>
 <br />
 
 <p>
+
+  
+<p>
+<img src="https://i.imgur.com/jwBzDep.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 3 navigate to network watcher and verify that VM1 and VM2 Exist on the same network
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/arjwgjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 4 Using Remote Desktop Login to VM1
+</p>
+<br />
+
+<p>
+
 
 
 
