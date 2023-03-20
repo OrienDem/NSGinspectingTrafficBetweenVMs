@@ -103,7 +103,7 @@ Step 7 ping www. google. com in wireshark
 <img src="https://i.imgur.com/JumuMuH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 8 ping perpetually by using ping 10005 in powershell
+Step 8 ping perpetually by using ping the linux VMs private IP (10.0.0.5) in powershell
 </p>
 <br />
 
@@ -137,11 +137,15 @@ Step 12 back in azure switch the new rule from deny to allow
 </p>
 <br />
 
+<h3 align="center">
+  Observing SSH traffic
+</h3>
+
 <p>
 <img src="https://i.imgur.com/OyzdcEt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step13 In powershell connect to vm2 via ssh. Then analyze wireshark display ssh information 
+Step13 In powershell connect to vm2 via ssh. Then analyze wireshark's display of ssh information 
 </p>
 <br />
 
@@ -179,6 +183,10 @@ Step 16 type linux commands to verify access to terminal
 <p>
 <img src="https://i.imgur.com/kkAtmbT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+
+
 <p>
 Step 17 reasign dhcp and analyse the information in wireshark
 </p>
