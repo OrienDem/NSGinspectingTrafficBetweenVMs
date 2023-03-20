@@ -31,6 +31,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 * Observe DNS Traffic
 * Observe RDP Traffic
 
+<h3 align="center">
+  Set Up VM Environment
+</h3>
 
 
 
