@@ -187,4 +187,23 @@ Step 17 reasign dhcp and analyse the information in wireshark
 <p>
 
 
+<p>
+<img src="https://i.imgur.com/jNp6biz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 18 DNS analyse the dns traffic after using the nslookup command
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Poi2CMh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 19 Lastly, check RDP or TCP  port 3389 and observe the continuous stream of traffic due to the use of the remote desktop viewer
+</p>
+<br />
+
+<p>
+
+
 
