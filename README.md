@@ -111,7 +111,7 @@ Step 8 ping perpetually by using ping 10005 in powershell
 
 
 <p>
-<img src="https://imgur.com/zyhGuw7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zyhGuw7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 step 9 Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic, while back in the Windows 10 VM, observe the ICM
