@@ -95,7 +95,7 @@ Step 6 open wirehark and ping VM2
 <img src="https://i.imgur.com/Rp6kyUa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7 ping www. google. com in wireshark
+Step 7 ping w w w .google. com in wireshark
 </p>
 <br />
 
@@ -114,7 +114,7 @@ Step 8 ping perpetually by using ping the linux VMs private IP (10.0.0.5) in pow
 <img src="https://i.imgur.com/zyhGuw7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-step 9 Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic, while back in the Windows 10 VM, observe the ICM
+Step 9 Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic, while back in the Windows 10 VM, observe the ICM
 </p>
 <br />
 
@@ -138,14 +138,14 @@ Step 12 back in azure switch the new rule from deny to allow
 <br />
 
 <h3 align="center">
-  Observing SSH traffic
+  Observe SSH traffic
 </h3>
 
 <p>
 <img src="https://i.imgur.com/OyzdcEt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step13 In powershell connect to vm2 via ssh. Then analyze wireshark's display of ssh information 
+Step 13 In powershell connect to vm2 via ssh. Then analyze wireshark's display of ssh information 
 </p>
 <br />
 
@@ -207,7 +207,7 @@ Step 17 reasign dhcp and analyse the information in wireshark
 
 
 <p>
-Step 18 DNS analyse the dns traffic after using the nslookup command
+Step 18 analyse the dns traffic after using the nslookup command
 </p>
 <br />
 
